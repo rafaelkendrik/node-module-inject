@@ -23,10 +23,19 @@ const ModuleOne = require('@ModuleOne')
 const ModuleTwo = require('@ModuleTwo')
 ```
 
+**requirements**:
+
+  * [module-alias](https://github.com/ilearnio/module-alias).
+
+**installation**:
+```sh
+$ npm install --save module-alias rafaelkendrik/node-require-inject#master
+```
+
 **usage**:
 
 Follow de sample folders to setup this lib, using promise or async function.
 
-**requirements**:
-
-  * [module-alias](https://github.com/ilearnio/module-alias).
+```js
+const requireInject = require('require-inject')
+```
