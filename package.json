@@ -1,0 +1,18 @@
+{
+  "name": "require-inject",
+  "version": "1.0.0",
+  "main": "require-inject.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelkendrik/node-require-inject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelkendrik/node-require-inject/issues"
+  },
+  "homepage": "https://github.com/rafaelkendrik/node-require-inject#readme",
+  "dependencies": {
+    "module-alias": "^2.2.0"
+  }
+}
