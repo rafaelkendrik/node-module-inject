@@ -1,4 +1,4 @@
-const requireInject = require('../../dist/require-inject.js')
+const requireInject = require('../../')
 
 ;(async() => {
   /* it injects all src sub folders in require using module-alias */
