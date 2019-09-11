@@ -1,4 +1,4 @@
-NODE REQUIRE INJECT
+NODE MODULE INJECT
 ===================
 
 A sub folder auto loader for node require().
